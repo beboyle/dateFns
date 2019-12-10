@@ -8,7 +8,8 @@ Import the desired functions into the component where needed.
   `import { yearNow } from '../js/dateFns'`
 
   
-  
+## List of Date and Time Functions
+ 
 ### yearNow()
 Returns the current year as a number, such as 2019
 
